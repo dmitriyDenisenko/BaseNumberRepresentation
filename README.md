@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>be1.ru</title>
 </head>
 <body>
 <p>&nbsp; &nbsp; &nbsp; <span style="font-family:Comic Sans MS,cursive">Lab number 3</span></p>

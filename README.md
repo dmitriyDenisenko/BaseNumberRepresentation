@@ -1,7 +1,7 @@
 <html>
 </head>
 <body>
-<p style="text-align:center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-family:Comic Sans MS,cursive"> 		Lab number 3</span></p>
+<p style="text-align:center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-family:Comic Sans MS,cursive">Lab number 3</span></p>
 
 <p><span style="font-family:Comic Sans MS,cursive">&nbsp;&nbsp;</span>&nbsp; &nbsp; <strong>Task:&nbsp;</strong></p>
 

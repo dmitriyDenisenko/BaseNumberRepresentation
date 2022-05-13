@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BaseNumber implements NumericFunctions {
+public class BaseNumber{
     private String data;
     private int system;
 
